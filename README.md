@@ -9,8 +9,8 @@ Su finalidad es poder activar y potenciar las competencias desarrolladas con los
 * [Introducción](https://github.com/g-courses/ici313/tree/main/apuntes)
 
 ## Horario Clases
-Jueves 14:30 - 16:00 Hrs. Sala 204
-Jueves 16:15 - 17:45 Hrs. Sala 204
+* Jueves 14:30 - 16:00 Hrs. Sala 204
+* Jueves 16:15 - 17:45 Hrs. Sala 204
 
 ## Horario Consultas
 Miércoles 14:30 - 16:00 Hrs. 
