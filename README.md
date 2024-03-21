@@ -24,7 +24,7 @@ Nota Final = 15%C1 + 25%C2 + 30%C3 + 15%Tareas + 15%Controles
 * C3: viernes 27 de junio
 
 ## Fechas controles
-* Q01: jueves 28 de marzo
+* Q01: jueves 28 de marzo (01-IntroduccionV1.pdf)
 * Q02: 
 * Q03: 
 * Q04:
